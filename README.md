@@ -1,7 +1,8 @@
 # Diabetes_predictions
 <br>
 ---Data visualization---
-![download](https://github.com/kishore-FDI/Diabetes_predictions/assets/147427164/66fbdcf9-1fb0-42de-8f22-442ab1d8f93d)
+![download](https://github.com/kishore-FDI/Diabetes_predictions/assets/147427164/4b6d2497-7a94-48d2-946e-b10e484d21b2)
+
 
 <br>
 ---model_performance---
